@@ -6,9 +6,9 @@ El presente proyecto es el dibujo 2D de Sokara de League of Legends (LOL)
 
 Para la mejor comprensión de uso y de configuración del proyecto (Para su compilación) se sugirere leer tanto el  manual técnico del presente proyecto.
 
-2. Manual de técnico (How to compile) [click here](https://github.com/aMurryFly/2D_draw_OpenGL/blob/main/howToCompile.pdf)
+1. Manual de técnico (How to compile) [click here](https://github.com/aMurryFly/2D_draw_OpenGL/blob/main/howToCompile.pdf)
 
-3. Dentro de este mismo repo adjunto el archivo rar con las bibliotecas y recursos del proyecto (En caso de que el proyecto de Visual Studio Code no funcione)
+2. Dentro de este mismo repo adjunto el archivo rar con las bibliotecas y recursos del proyecto (En caso de que el proyecto de Visual Studio Code no funcione)
 
 ## 🚀 Mapping e imágenes
 
