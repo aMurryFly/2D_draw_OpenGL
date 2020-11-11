@@ -19,6 +19,7 @@ A continuación la misma imagen pero con el mallado y origen de las coordenadas 
 <img src="https://github.com/aMurryFly/2D_draw_OpenGL/raw/main/img_resources/malla_dibujo.jpg" alt="img" style="zoom:10%;" />
 
 A continuación imagen obtenido tras compilación:
+<img src="https://github.com/aMurryFly/2D_draw_OpenGL/blob/main/img_resources/compileDraw.PNG" alt="img" style="zoom:10%;" />
 
 
 ## 🤔 Dudas o comentarios
