@@ -6,7 +6,7 @@ A continuación dibujo que se trató de representar:<br>
 ![img](https://github.com/aMurryFly/2D_draw_OpenGL/blob/main/img_resources/dibujo.png)
 
 A continuación la misma imagen pero con el mallado y origen de las coordenadas para el dibujo mediante OpenGL:<br>
-<img src="https://github.com/aMurryFly/2D_draw_OpenGL/raw/main/img_resources/malla_dibujo.jpg" alt="img" style="zoom:33%;" />
+<img src="https://github.com/aMurryFly/2D_draw_OpenGL/raw/main/img_resources/malla_dibujo.jpg" alt="img" style="zoom:10%;" />
 
 A continuación imagen obtenido tras compilación:
 
