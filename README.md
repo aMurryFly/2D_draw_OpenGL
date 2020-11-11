@@ -2,11 +2,11 @@
 
 El presente proyecto es el dibujo 2D de Sokara de League of Legends (LOL)
 
-A continuación dibujo que se trató de representar:
+A continuación dibujo que se trató de representar:<br>
 ![img](https://github.com/aMurryFly/2D_draw_OpenGL/blob/main/img_resources/dibujo.png)
 
-A continuación la misma imagen pero con el mallado y origen de las coordenadas para el dibujo mediante OpenGL:
-![img](https://github.com/aMurryFly/2D_draw_OpenGL/blob/main/img_resources/malla_dibujo.jpg)
+A continuación la misma imagen pero con el mallado y origen de las coordenadas para el dibujo mediante OpenGL:<br>
+![img](https://github.com/aMurryFly/2D_draw_OpenGL/blob/main/img_resources/malla_dibujo.jpg){ width=50% }
 
 A continuación imagen obtenido tras compilación:
 
