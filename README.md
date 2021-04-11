@@ -2,7 +2,7 @@
 
 El presente proyecto es el dibujo 2D de Sokara de League of Legends (LOL)
 
-## 🚀 Acerca del proyecto final
+## 🚀 Acerca del proyecto final 
 
 Para la mejor comprensión de uso y de configuración del proyecto (Para su compilación) se sugirere leer tanto el  manual técnico del presente proyecto.
 
